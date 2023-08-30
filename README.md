@@ -3,7 +3,8 @@
 ## Project Overview 🎉
 
 A simple page made with HTML, CSS and Javascript.
-Javascript powered slide-over off-canvas navigation
+Javascript powered slide-over off-canvas navigation.
+Card design in the main area.
 Focused on implementation of CSS Grid.
 Design ideas from Video Course made by Morten Rand-Hendriksen.
 
